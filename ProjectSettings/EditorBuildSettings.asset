@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ANAMENU.unity
+    guid: 5a101c7ac15668543a7acb8e3c58b64c
+  - enabled: 1
+    path: Assets/1-Boyama/SAHNELER/sahne_boyama.unity
+    guid: 09bc84aaefe4d624284b566c6b61da77
+  - enabled: 1
+    path: "Assets/1-Boyama/SAHNELER/1.RES\u0130M.unity"
+    guid: 0ee77a4467cf73548b0b71249967e024
+  - enabled: 1
+    path: "Assets/1-Boyama/SAHNELER/2.RES\u0130M.unity"
+    guid: 6953fe37ba88d8c4f912709a128f9cd9
+  - enabled: 1
+    path: "Assets/1-Boyama/SAHNELER/3.RES\u0130M.unity"
+    guid: ad1e26c68b05cd941a4a2d34c7a0513a
+  - enabled: 1
+    path: "Assets/1-Boyama/SAHNELER/4.RES\u0130M.unity"
+    guid: 9e33893ec3646f7448cd84dd7c62390d
+  - enabled: 1
+    path: "Assets/1-Boyama/SAHNELER/5.RES\u0130M.unity"
+    guid: 525ebc890af157e44b8f0a667dd2061c
+  - enabled: 1
+    path: "Assets/1-Boyama/SAHNELER/6.RES\u0130M.unity"
+    guid: 6e682b036c4051248b3e091706c2ab0e
+  - enabled: 1
+    path: "Assets/1-Boyama/SAHNELER/7.RES\u0130M.unity"
+    guid: 61e9b6c85d5ce4844b96186934edf8c4
+  - enabled: 1
+    path: "Assets/1-Boyama/SAHNELER/8.RES\u0130M.unity"
+    guid: 77be2fdb2a71bcc428c81a8b7bbb7b21
+  - enabled: 1
+    path: "Assets/1-Boyama/SAHNELER/9.RES\u0130M.unity"
+    guid: 05b954cde3fbcfe419801e5967fb85ad
+  - enabled: 1
+    path: "Assets/1-Boyama/SAHNELER/10.RES\u0130M.unity"
+    guid: 7053139999f727648acb32e61b43c9f3
+  - enabled: 1
+    path: "Assets/1-Boyama/SAHNELER/11.RES\u0130M.unity"
+    guid: d5f6b87c08223bf46b0eca23882e98c6
+  - enabled: 1
+    path: "Assets/1-Boyama/SAHNELER/12.RES\u0130M.unity"
+    guid: 08f80f2221647114db0e4a021617df18
+  - enabled: 1
+    path: Assets/2-Kelime/Scenes/sahne_kelime.unity
+    guid: 44d38088ccd1f6644a262b893daed5b9
+  - enabled: 1
+    path: Assets/2-Kelime/Scenes/Level_1(kelime).unity
+    guid: d2bfc5f7cdceeac4195fdecca52c66f8
+  - enabled: 1
+    path: Assets/2-Kelime/Scenes/Level_2(kelime).unity
+    guid: 99a9f02ee27b5e1459abb8f43d66e7c6
+  - enabled: 1
+    path: Assets/2-Kelime/Scenes/Level_3(kelime).unity
+    guid: 21619efb1eb33e9498d0cd30ecd62264
+  - enabled: 1
+    path: Assets/3-Card/Scenes/sahne_kart.unity
+    guid: 46028b93796ab29498abce527ce88e26
+  - enabled: 1
+    path: Assets/3-Card/Scenes/Level_hepsi(Card).unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/3-Card/Scenes/Level_Giysiler(Card).unity
+    guid: 5b5717a8ac0595846b9d6b7b844c59bd
+  - enabled: 1
+    path: Assets/3-Card/Scenes/Level_hayvanlar(Card).unity
+    guid: 721480041db00f644b03a77bd9b7b8c5
+  - enabled: 1
+    path: Assets/3-Card/Scenes/Level_esyalar(Card).unity
+    guid: 638e4e849cbc5e5448d7c20af0a1702c
+  - enabled: 1
+    path: Assets/4-Araba/Scenes/sahne_araba.unity
+    guid: 83da8808454fd2b4b85ee177c5dd8050
+  - enabled: 1
+    path: Assets/4-Araba/Scenes/Level_esya.unity
+    guid: a51e9406562fbe44db6cb356e717ee7e
+  - enabled: 1
+    path: Assets/4-Araba/Scenes/Level_giysi.unity
+    guid: 03c13077f3a8f4749939ede8bb9f5a61
+  - enabled: 1
+    path: Assets/4-Araba/Scenes/Level_hayvan.unity
+    guid: 33ebbb62198173949be295e9eed6bda8
+  - enabled: 1
+    path: Assets/4-Araba/Scenes/Level_mekan.unity
+    guid: d702dfe9a0d6cc74e91c79c549d7aafd
+  - enabled: 1
+    path: Assets/4-Araba/Scenes/Level_meyve.unity
+    guid: 0b4b641b54e07c44da088c69f81c7906
+  - enabled: 1
+    path: Assets/5-harf/Scenes/sahne_harf.unity
+    guid: fee34a5090df3634baaf7114228d7c88
+  - enabled: 1
+    path: Assets/5-harf/Scenes/Level_esyalar(harf).unity
+    guid: 72d4919d1b32d644a8b198a09047d6ba
+  - enabled: 1
+    path: Assets/5-harf/Scenes/Level_giysiler(harf).unity
+    guid: a2bdc65989300a942a33940b0a133199
+  - enabled: 1
+    path: Assets/5-harf/Scenes/Level_hayvanlar(harf).unity
+    guid: 945b8436cee0b5c48a1ab5b612faeffd
+  - enabled: 1
+    path: Assets/5-harf/Scenes/Level_hepsi(harf).unity
+    guid: 71df7c2dc6e3d8f4488e7af24b5eaa0e
+  - enabled: 1
+    path: "Assets/6-e\u015Fleme/Scenes/sahne_e\u015Fleme.unity"
+    guid: 6689c4a726c777940b48e5ffb7bb3ad6
+  - enabled: 1
+    path: "Assets/6-e\u015Fleme/Scenes/Level_harfler.unity"
+    guid: 55d0547cd6a681245b2fae86f1766c1e
+  - enabled: 1
+    path: "Assets/6-e\u015Fleme/Scenes/Level_hayvanlar.unity"
+    guid: 31aa73c767af97f43a45238e94e205f4
+  - enabled: 1
+    path: "Assets/6-e\u015Fleme/Scenes/Level_meslekler.unity"
+    guid: 76ef01a6aed3ba24588b37c75640f404
+  - enabled: 1
+    path: "Assets/6-e\u015Fleme/Scenes/Level_sekiller.unity"
+    guid: d913742b73725e04eb06bd9d42484a9a
+  m_configObjects: {}
